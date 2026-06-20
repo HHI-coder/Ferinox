@@ -4,6 +4,8 @@
   "private": true,
   "description": "Modern secure FERINOX landing page prototype",
   "scripts": {
+    "build": "node build.js",
+    "dev": "node server.js",
     "start": "node server.js"
   },
   "engines": {
